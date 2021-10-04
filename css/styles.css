@@ -45,6 +45,8 @@ address{
     padding: 10px;
 }
 
+a{ color:black; }
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
